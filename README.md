@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehsan Bahrami</h1>
-<h3 align="center">A Software Engineer | Senior Full-stack Developer | Python + PHP + JavaScript | CEO & Founder at [CodeVeb](https://codeveb.ir) Company</h3>
+<h3 align="center">A Software Engineer | Senior Full-stack Developer | Python + PHP + JavaScript | CEO & Founder at <a href="https://codeveb.ir" target="blank">CodeVeb</a> Company</h3>
 
 - 🔭 I’m currently working on **[CodeVeb](https://codeveb.ir)**
 

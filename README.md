@@ -11,19 +11,19 @@
 
 - 💬 Ask me about **Python, FastAPI, Django, Next.js, React.js, PHP, Laravel, MySQL, PostgreSQL, Tailwind CSS, etc.**
 
-- 📫 How to reach me: **ehsanbahrami.dev@gmail.com**
+- 📫 How to reach me: **ehsanbahramidev@gmail.com**
 
 - 📄 Know about my experiences: **[My resume.](https://ehsanbahrami.dev/wp-content/uploads/2024/03/Resume-Ehsan-Bahrami.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ehsan-bahrami" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/f4f15314-6786-4924-9c36-1821013afc74" alt="ehsanbahrami.dev" width="40" height="40"/></a>
-<a href="https://instagram.com/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/575fc2fc-2038-4e82-8a05-ea596761e339" alt="ehsanbahrami.dev" width="40" height="40"/></a>
-<a href="https://twitter.com/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/5033f017-f356-4a5b-8333-1db7f55c4fe6" alt="ehsanbahrami.dev" width="40" height="40"/></a>
-<a href="https://stackoverflow.com/users/ehsan-bahrami" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/509e6c41-bf6e-462c-86d1-907470398acf" alt="ehsanbahrami.dev" width="40" height="40"/></a>
-<a href="https://fb.com/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/8d9a4798-ef9f-40c0-ae25-f014e1983d6e" alt="ehsanbahrami.dev" width="40" height="40"/></a>
-<a href="https://t.me/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/95e707d7-b9e4-4971-8b38-9ec1d7dea0d8" alt="ehsanbahrami.dev" width="40" height="40"/></a>
-<a href="https://www.youtube.com/c/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/80cd4673-4bbc-4e7d-b297-ff532207f2a7" alt="ehsanbahrami.dev" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/ehsan-bahrami" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/f4f15314-6786-4924-9c36-1821013afc74" alt="ehsanbahramidev" width="40" height="40"/></a>
+<a href="https://instagram.com/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/575fc2fc-2038-4e82-8a05-ea596761e339" alt="ehsanbahramidev" width="40" height="40"/></a>
+<a href="https://twitter.com/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/5033f017-f356-4a5b-8333-1db7f55c4fe6" alt="ehsanbahramidev" width="40" height="40"/></a>
+<a href="https://stackoverflow.com/users/ehsan-bahrami" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/509e6c41-bf6e-462c-86d1-907470398acf" alt="ehsanbahramidev" width="40" height="40"/></a>
+<a href="https://fb.com/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/8d9a4798-ef9f-40c0-ae25-f014e1983d6e" alt="ehsanbahramidev" width="40" height="40"/></a>
+<a href="https://t.me/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/95e707d7-b9e4-4971-8b38-9ec1d7dea0d8" alt="ehsanbahramidev" width="40" height="40"/></a>
+<a href="https://www.youtube.com/c/ehsanbahramidev" target="blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/assets/138040907/80cd4673-4bbc-4e7d-b297-ff532207f2a7" alt="ehsanbahramidev" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

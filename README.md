@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[CodeVeb](https://codeveb.ir)**
 
-- 🌐 This is my personal website: **[ehsanbahrami.dev](https://ehsanbahrami.dev)**
+- 🌐 This is my personal website: **[ehsanbahrami.dev(Persian)](https://ehsanbahrami.dev)** & **[ehsanbahrami.dev(English)](https://ehsanbahrami.dev/en)**
 
 - 👨‍💻 All of my projects are available at **[my portfolio](https://ehsanbahrami.dev/projects/)**
 
